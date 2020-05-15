@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22224" started-at="2020-05-16T02:04:51 IST" finished-at="2020-05-16T02:05:13 IST">
+  <suite name="Suite" duration-ms="23840" started-at="2020-05-16T02:43:25 IST" finished-at="2020-05-16T02:43:49 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22224" started-at="2020-05-16T02:04:51 IST" finished-at="2020-05-16T02:05:13 IST">
+    <test name="Test" duration-ms="23840" started-at="2020-05-16T02:43:25 IST" finished-at="2020-05-16T02:43:49 IST">
       <class name="Projpack.TestCase1">
-        <test-method status="PASS" signature="tc1()[pri:0, instance:Projpack.TestCase1@578486a3]" name="tc1" duration-ms="11309" started-at="2020-05-16T02:04:51 IST" finished-at="2020-05-16T02:05:02 IST">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:Projpack.TestCase1@2758fe70]" name="tc1" duration-ms="13125" started-at="2020-05-16T02:43:25 IST" finished-at="2020-05-16T02:43:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:Projpack.TestCase1@578486a3]" name="teardown" is-config="true" duration-ms="10570" started-at="2020-05-16T02:05:02 IST" finished-at="2020-05-16T02:05:13 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Projpack.TestCase1@2758fe70]" name="teardown" is-config="true" duration-ms="10347" started-at="2020-05-16T02:43:38 IST" finished-at="2020-05-16T02:43:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

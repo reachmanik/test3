@@ -17,7 +17,7 @@ public class TestCase1 extends BaseClass {
 		PageObjectHomePage obj = new PageObjectHomePage(driver);
 		obj.getTodayDeals().click();
 		log.error("i have logged successfully");
-		
+		/////////////////////////////////
 	}
 	
 	@AfterClass
